@@ -2,6 +2,7 @@
 import numpy as np
 import pandas as pd
 import pickle
+import sklearn
 
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.preprocessing import OneHotEncoder
